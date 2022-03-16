@@ -9,4 +9,4 @@ Todo:
 - Mesaoptimization (can be largely based off [this paper](https://arxiv.org/abs/2105.14111))
 - Deception (todo: figure out how to do this one)
 - ELK (showing each proposal in ELK, and then showing a toy problem that breaks the proposal, etc)
-- Reward Hacking
+- Wireheading (an environment where the AI can modify its own reward signa ldirectly)
